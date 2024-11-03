@@ -1,6 +1,6 @@
 <div align="center">
 <h2>是青旨啊🌴<img src="https://img-blog.csdnimg.cn/f7384c88956d4378b72e47548e19c9f8.gif" alt="f7384c88956d4378b72e47548e19c9f8.gif" width="50" /></h2>
-  <p align="center">👋 你好！我是一名大一学生，目前就读于新疆理工学院能源化工工程学院。作为一个对计算机科学充满热情的年轻开发者，我对探索技术世界充满好奇。💻 除了我的专业学习，我还投身于IT和互联网技术的深海，希望可以借此影响世界。我的梦想是成为一名卓越的软件工程师，为技术世界贡献自己的力量。</p>
+  <p align="center">👋 你好！我是一名大一学生，目前就读于新疆理工学院能源化工工程学院（已于2024年9月转入信息工程学院软件工程专业）。作为一个对计算机科学充满热情的年轻开发者，我对探索技术世界充满好奇。💻 除了我的专业学习，我还投身于IT和互联网技术的深海，希望可以借此影响世界。我的梦想是成为一名卓越的软件工程师，为技术世界贡献自己的力量。</p>
   <p align="center">
 <strong>邮箱</strong>: <a href="mailto:i@sayqz.com">i@sayqz.com</a><strong>   QQ</strong>: <a href="http://wpa.qq.com/msgrd?v=3&uin=179549232&site=qq&menu=yes">179549232</a>
 </p>
