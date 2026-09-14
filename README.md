@@ -17,8 +17,8 @@
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats-neon-psi-82.vercel.app/api?username=GSQZ&show_icons=true&hide_border=true&hide=contribs&include_all_commits=true&theme=transparent&title_color=a0a9af&text_color=8b949e&icon_color=586069" alt="GitHub Stats" />
-<img height="150" src="https://github-readme-stats-neon-psi-82.vercel.app/api/top-langs/?username=GSQZ&layout=compact&hide_border=true&theme=transparent&title_color=a0a9af&text_color=8b949e&langs_count=6" alt="Top Languages" />
+<img height="150" src="https://github-readme-stats-ruddy-gamma-80.vercel.app/api?username=GSQZ&show_icons=true&hide_border=true&hide=contribs&include_all_commits=true&count_private=true&theme=transparent&title_color=a0a9af&text_color=8b949e&icon_color=586069" alt="GitHub Stats" />
+<img height="150" src="https://github-readme-stats-ruddy-gamma-80.vercel.app/api/top-langs/?username=GSQZ&layout=compact&hide_border=true&count_private=true&theme=transparent&title_color=a0a9af&text_color=8b949e&langs_count=6" alt="Top Languages" />
 
 </div>
 
