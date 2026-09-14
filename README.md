@@ -1,93 +1,80 @@
 <div align="center">
-<h2>是青旨啊🌴<img src="https://img-blog.csdnimg.cn/f7384c88956d4378b72e47548e19c9f8.gif" alt="f7384c88956d4378b72e47548e19c9f8.gif" width="50" /></h2>
-  <p align="center">👋 你好！我是一名大一学生，目前就读于新疆理工学院能源化工工程学院（已于2024年9月转入信息工程学院软件工程专业）。作为一个对计算机科学充满热情的年轻开发者，我对探索技术世界充满好奇。💻 除了我的专业学习，我还投身于IT和互联网技术的深海，希望可以借此影响世界。我的梦想是成为一名卓越的软件工程师，为技术世界贡献自己的力量。</p>
-  <p align="center">
-<strong>邮箱</strong>: <a href="mailto:i@sayqz.com">i@sayqz.com</a><strong>   QQ</strong>: <a href="http://wpa.qq.com/msgrd?v=3&uin=179549232&site=qq&menu=yes">179549232</a>
-</p>
+
+# 是青旨啊 🌴
+
+**做少数民族语言的语音技术，也自己搭服务。**
+
+新疆 · 新疆理工学院 · 软件工程在读
+
+[![网站](https://img.shields.io/badge/sayqz.com-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://sayqz.com)
+[![博客](https://img.shields.io/badge/博客-111827?style=flat-square&logo=rss&logoColor=white)](https://sayqz.com/blog)
+[![邮箱](https://img.shields.io/badge/i@sayqz.com-111827?style=flat-square&logo=maildotru&logoColor=white)](mailto:i@sayqz.com)
+[![QQ](https://img.shields.io/badge/QQ_179549232-111827?style=flat-square&logo=tencentqq&logoColor=white)](http://wpa.qq.com/msgrd?v=3&uin=179549232&site=qq&menu=yes)
+
 </div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=GSQZ&show_icons=true&theme=ambient_gradient&line_height=27&timestamp=1718187940">
-</div>
+---
 
-<h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+## 我在做什么
 
-<div align="center">
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Express.js"/>
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-</div>
+### 🗣 少数民族语言的语音技术
 
-<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+维吾尔语 + 中文的双语语音识别。这块国内几乎没人开源，所以我自己做。
 
-<div align="center">
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-</div>
+单文件实现，不依赖重型框架 —— 克隆下来就能跑，不用先配一堆环境。
 
-<h2 align="center">🏆 获奖记录</h2>
+### 🔧 自建服务
 
-<div align="center">
-  <table>
-    <tr>
-      <th>比赛名称</th>
-      <th>奖项</th>
-    </tr>
-    <tr>
-      <td><a href="https://api.sayqz.com/awards">全国学生信息素养大赛</a></td>
-      <td>
-        <ul style="list-style-type: none; padding-left: 0;">
-          <li>高中组第一名</li>
-          <li>高中组优秀奖</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td><a href="https://api.sayqz.com/awards">新疆维吾尔自治区学生信息素养大赛</a></td>
-      <td>
-        <ul style="list-style-type: none; padding-left: 0;">
-          <li>高中组第一名</li>
-          <li>高中组第三名</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td><a href="https://api.sayqz.com/awards">新疆维吾尔自治区青少年科技创新大赛</a></td>
-      <td>
-        <ul style="list-style-type: none; padding-left: 0;">
-          <li>三等奖</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td><a href="https://api.sayqz.com/awards">和田地区青少年科技创新大赛</a></td>
-      <td>
-        <ul style="list-style-type: none; padding-left: 0;">
-          <li>双一等奖</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td><a href="https://api.sayqz.com/awards">和田地区</a></td>
-      <td>
-        <ul style="list-style-type: none; padding-left: 0;">
-          <li>校园编程代言人</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+sayqz.com 这一套是自己维护的：站点、API、部署、运维都不外包。
+习惯把东西跑在自己的机器上，也习惯让它长期跑稳。
 
+### 🏫 校园产品
+
+给本校学生做的民间校园服务 App。不做「掌上XX」那种重型壳子，只解决真问题。
+
+---
+
+## 代表项目
+
+| 项目 | 说明 | 语言 | Star |
+| :-- | :-- | :-- | :-- |
+| [**BilingualASR**](https://github.com/GSQZ/BilingualASR) | 维吾尔语 + 中文双语语音识别 API，单文件、易部署 | ![Python](https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white) | ![Star](https://img.shields.io/github/stars/GSQZ/BilingualASR?style=flat-square&label=) |
+| [**xllite**](https://github.com/GSQZ/xllite) | 新理Lite —— 新疆理工学院学生的民间校园服务 App | ![Dart](https://img.shields.io/badge/-0175C2?style=flat-square&logo=dart&logoColor=white) | ![Star](https://img.shields.io/github/stars/GSQZ/xllite?style=flat-square&label=) |
+| [**XiaoYuanKouSuan**](https://github.com/GSQZ/XiaoYuanKouSuan) | 小猿口算自动化 | ![Python](https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white) | ![Star](https://img.shields.io/github/stars/GSQZ/XiaoYuanKouSuan?style=flat-square&label=) |
+| [**SayqzHomePages**](https://github.com/GSQZ/SayqzHomePages) | sayqz.com 的前端，纯 HTML/CSS/JS | ![CSS](https://img.shields.io/badge/-1572B6?style=flat-square&logo=css3&logoColor=white) | ![Star](https://img.shields.io/github/stars/GSQZ/SayqzHomePages?style=flat-square&label=) |
+
+---
+
+## 技术栈
+
+**语言**  `Python`  `Dart / Flutter`  `JavaScript / Vue`
+
+**能力**  语音识别  ·  客户端与移动端  ·  协议分析与逆向  ·  Linux 服务部署与运维
+
+---
+
+## 获奖
+
+- 全国学生信息素养大赛 · 高中组 **第一名** / 优秀奖
+- 新疆维吾尔自治区学生信息素养大赛 · 高中组 **第一名** / 第三名
+- 新疆维吾尔自治区青少年科技创新大赛 · 三等奖
+- 和田地区青少年科技创新大赛 · **双一等奖**
+- 和田地区 · 校园编程代言人
+
+---
+
+## 沿革
+
+更早的时候，我维护过几款音乐解析客户端与 API，累计拿到 **900+ Star**。
+它们后来按合规要求**停止了维护并下架源码**，仓库里现在只保留声明。
+
+那段经历真正留下来的东西是实的：客户端逆向、私有协议分析与签名算法复现，
+以及把不稳定的第三方接口包装成能长期跑的服务。现在这套能力用在了别的方向上。
+
+---
 
 <div align="center">
-📧 有任何技术讨论或合作，欢迎通过邮件联系我：<a href="mailto:i@sayqz.com">i@sayqz.com</a>
+
+📮 技术讨论、合作，或者只是聊聊 · <a href="mailto:i@sayqz.com">i@sayqz.com</a>
+
 </div>
