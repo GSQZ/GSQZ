@@ -15,6 +15,13 @@
 - 🎓 新疆理工学院 · 软件工程 · 学院科创中心主任
 - ⭐ 早期跨平台开源项目累计 **800+ Star**，现已按合规要求下架
 
+<div align="center">
+
+<img height="150" src="https://github-readme-stats-neon-psi-82.vercel.app/api?username=GSQZ&show_icons=true&hide_border=true&hide=contribs&include_all_commits=true&theme=transparent&title_color=a0a9af&text_color=8b949e&icon_color=586069" alt="GitHub Stats" />
+<img height="150" src="https://github-readme-stats-neon-psi-82.vercel.app/api/top-langs/?username=GSQZ&layout=compact&hide_border=true&theme=transparent&title_color=a0a9af&text_color=8b949e&langs_count=6" alt="Top Languages" />
+
+</div>
+
 ## 精选项目
 
 | 项目 | 说明 |
