@@ -1,19 +1,27 @@
-<div align="center">
+# Hey, I'm Sayqz 👋
 
-# 是青旨啊
+I make apps, work on language tools, and tinker with things in between.
 
-**伊卜拉伊木·买买提江**
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-少数民族语言 AI · 跨平台开发 · 开源
+### A little about me
 
-</div>
+- 📱 **Apps:** Mostly building with Flutter, from music players to campus tools.
+- 🗣️ **Language tools:** Working on speech recognition, speech synthesis, and OCR for Uyghur and other minority languages.
+- ✨ **Interfaces:** I like spending time on the little things: layout, motion, and how an app feels.
+- 🐳 **Self-hosting:** Tinkering with Docker and keeping my own services running.
+
+### Things I've worked on
+
+- 🎵 **[TuneFreeNext](https://tunefree.fun)** — A cross-platform music player I built with Flutter.
+- 🎒 **[xllite](https://github.com/GSQZ/xllite)** — An unofficial campus app for Xinjiang Institute of Technology.
+- 🎙️ **[BilingualASR](https://github.com/GSQZ/BilingualASR)** — A simple speech recognition API for Uyghur and Chinese.
 
 ---
-
-- 🔭 在做 **西域视算** —— 面向少数民族语言的 AI 服务平台（语音识别 / 语音合成 / OCR）
-- 🏢 上海西域视算科技有限公司 · 董事
-- 🎓 新疆理工学院 · 软件工程 · 学院科创中心主任
-- ⭐ 早期跨平台开源项目累计 **800+ Star**，现已按合规要求下架
 
 <div align="center">
 
@@ -22,25 +30,4 @@
 
 </div>
 
-## 精选项目
-
-| 项目 | 说明 |
-| :-- | :-- |
-| **西域视算** | 少数民族语言的语音识别 / 语音合成 / OCR |
-| **[BilingualASR](https://github.com/GSQZ/BilingualASR)** | 维吾尔语 + 中文双语语音识别 API，单文件实现 |
-| **[xllite](https://github.com/GSQZ/xllite)** | 新疆理工学院民间校园服务 App |
-
-## 荣誉
-
-- 海峡两岸暨港澳地区大学生计算机创新作品赛 · **国家级二等奖**
-- 中国国际大学生创新大赛（新疆赛区）· **金奖季军**
-- 金温杯 / 筑梦北屯 创新创业大赛 · **金奖**
-- 国家计算机软件著作权 ×1
-
----
-
-<div align="center">
-
-📮 <a href="mailto:i@sayqz.com">i@sayqz.com</a> · 🌐 <a href="https://sayqz.com">sayqz.com</a> · 📄 <a href="https://sayqz.com/resume/">完整简历</a>
-
-</div>
+[Email](mailto:i@sayqz.com) · [Website](https://sayqz.com)
