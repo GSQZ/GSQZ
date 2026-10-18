@@ -1,7 +1,7 @@
 # Hey, I'm Sayqz 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&amp;weight=600&amp;size=25&amp;duration=2800&amp;pause=1100&amp;color=F8D847&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=60&amp;lines=Flutter%2C%20pixels%2C%20and%20little%20details.%3BGiving%20Uyghur%20a%20digital%20voice.%3BOne%20more%20shader%20tweak...%3BIt%20works%20on%20my%20server." alt="Flutter, pixels, and little details. Giving Uyghur a digital voice. One more shader tweak... It works on my server." />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&amp;weight=600&amp;size=25&amp;duration=2800&amp;pause=1100&amp;color=5EEAD4&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=60&amp;lines=Flutter%2C%20pixels%2C%20and%20little%20details.%3BGiving%20Uyghur%20a%20digital%20voice.%3BOne%20more%20shader%20tweak...%3BIt%20works%20on%20my%20server." alt="Flutter, pixels, and little details. Giving Uyghur a digital voice. One more shader tweak... It works on my server." />
 </div>
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -48,8 +48,8 @@ I make apps, build web services, and tinker with speech and 3D.
 
 <div align="center">
 
-<a href="https://github.com/GSQZ"><img height="200" align="center" src="https://github-readme-stats-ruddy-gamma-80.vercel.app/api?username=GSQZ&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=radical&amp;disable_animations=true&amp;custom_title=Sayqz%27s%20GitHub%20Stats" alt="Sayqz's GitHub Stats" /></a>
-<a href="https://github.com/GSQZ"><img height="200" align="center" src="https://github-readme-stats-ruddy-gamma-80.vercel.app/api/top-langs/?username=GSQZ&amp;layout=compact&amp;hide_border=true&amp;count_private=true&amp;theme=radical&amp;disable_animations=true&amp;langs_count=8&amp;card_width=320" alt="Top Languages" /></a>
+<a href="https://github.com/GSQZ"><img height="200" align="center" src="https://github-readme-stats-ruddy-gamma-80.vercel.app/api?username=GSQZ&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0B1220&amp;title_color=5EEAD4&amp;text_color=C7D7E6&amp;icon_color=7DD3FC&amp;ring_color=2DD4BF&amp;border_radius=12&amp;disable_animations=true&amp;custom_title=Sayqz%27s%20GitHub%20Stats" alt="Sayqz's GitHub Stats" /></a>
+<a href="https://github.com/GSQZ"><img height="200" align="center" src="https://github-readme-stats-ruddy-gamma-80.vercel.app/api/top-langs/?username=GSQZ&amp;layout=compact&amp;hide_border=true&amp;count_private=true&amp;bg_color=0B1220&amp;title_color=5EEAD4&amp;text_color=C7D7E6&amp;icon_color=7DD3FC&amp;ring_color=2DD4BF&amp;border_radius=12&amp;disable_animations=true&amp;langs_count=8&amp;card_width=320" alt="Top Languages" /></a>
 
 </div>
 
