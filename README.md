@@ -53,4 +53,16 @@ I make apps, build web services, and tinker with speech and 3D.
 
 </div>
 
+### When I commit
+
+<div align="center">
+  <img src="./assets/profile/commits-by-hour.svg" height="200" alt="Commit activity by hour, UTC+8" />
+</div>
+
+### A trail of commits
+
+<div align="center">
+  <img src="./assets/profile/contribution-snake.svg" width="840" alt="A snake following my GitHub contribution graph" />
+</div>
+
 [Email](mailto:i@sayqz.com) · [Website](https://sayqz.com)
