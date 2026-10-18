@@ -1,12 +1,16 @@
 # Hey, I'm Sayqz 👋
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&amp;weight=600&amp;size=25&amp;duration=2800&amp;pause=1100&amp;color=F8D847&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=60&amp;lines=Building+apps+with+Flutter%3BMaking+tools+for+Uyghur+and+Chinese%3BTinkering+with+WebGL+and+Blender%3BSelf-hosting+and+figuring+things+out" alt="Building apps with Flutter; making language tools; exploring WebGL and Blender; self-hosting" />
+</div>
+
 I make apps, build web services, and tinker with speech and 3D.
 
 ### A little about me
 
 - 📱 **Apps:** Flutter and Dart, with Kotlin for Android features that need a native touch.
 - 🌐 **Web:** Vue, TypeScript, and Vite for web apps; Astro and Tailwind for websites.
-- ⚙️ **Backend:** Node.js and NestJS, with PostgreSQL, Redis, and real-time connections.
+- ⚙️ **Backend:** Node.js and NestJS, with PostgreSQL, MySQL, Redis, and real-time connections.
 - 🗣️ **Speech:** Python, PyTorch, and Flask for Uyghur and Chinese speech tools, including Whisper integration.
 - 🌿 **3D:** Browser-based worlds with WebGL and GLSL, Blender scripts, and multiplayer over WebSockets.
 - 🐳 **Self-hosting:** Docker, Linux, and GitHub Actions to keep things built and running.
@@ -34,6 +38,7 @@ I make apps, build web services, and tinker with speech and 3D.
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **Speech & 3D**
@@ -59,8 +64,8 @@ I make apps, build web services, and tinker with speech and 3D.
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats-ruddy-gamma-80.vercel.app/api?username=GSQZ&show_icons=true&hide_border=true&hide=contribs&include_all_commits=true&count_private=true&theme=transparent&title_color=a0a9af&text_color=8b949e&icon_color=586069" alt="GitHub Stats" />
-<img height="150" src="https://github-readme-stats-ruddy-gamma-80.vercel.app/api/top-langs/?username=GSQZ&layout=compact&hide_border=true&count_private=true&theme=transparent&title_color=a0a9af&text_color=8b949e&langs_count=6" alt="Top Languages" />
+<a href="https://github.com/GSQZ"><img height="200" align="center" src="https://github-readme-stats-ruddy-gamma-80.vercel.app/api?username=GSQZ&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=radical&amp;disable_animations=true&amp;custom_title=Sayqz%27s%20GitHub%20Stats" alt="Sayqz's GitHub Stats" /></a>
+<a href="https://github.com/GSQZ"><img height="200" align="center" src="https://github-readme-stats-ruddy-gamma-80.vercel.app/api/top-langs/?username=GSQZ&amp;layout=compact&amp;hide_border=true&amp;count_private=true&amp;theme=radical&amp;disable_animations=true&amp;langs_count=8&amp;card_width=320" alt="Top Languages" /></a>
 
 </div>
 
