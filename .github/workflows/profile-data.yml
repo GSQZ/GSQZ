@@ -1,4 +1,4 @@
-name: Refresh profile data
+name: Refresh contribution snake
 
 on:
   schedule:
@@ -24,16 +24,6 @@ jobs:
       - name: Check out profile
         uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
 
-      - name: Generate commit activity by hour
-        shell: bash
-        run: |
-          set -euo pipefail
-          mkdir -p assets/profile
-          curl --fail --silent --show-error --location \
-            --retry 4 --retry-all-errors --retry-delay 5 --max-time 45 \
-            "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GSQZ&theme=github_dark&utcOffset=8&bg_color=0B1220&title_color=5EEAD4&text_color=C7D7E6&chart_color=2DD4BF" \
-            --output assets/profile/commits-by-hour.svg
-
       - name: Generate contribution snake
         uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
         with:
@@ -49,7 +39,7 @@ jobs:
           import xml.etree.ElementTree as ET
 
           folder = Path("assets/profile")
-          for name in ("commits-by-hour.svg", "contribution-snake.svg"):
+          for name in ("contribution-snake.svg",):
               image = folder / name
               source = image.read_text()
               root = ET.fromstring(source)
@@ -62,8 +52,6 @@ jobs:
                   "api rate limit", "error fetching", "failed to fetch",
               )):
                   raise SystemExit(f"{name}: statistics request failed")
-              if name == "commits-by-hour.svg" and "Commits" not in source:
-                  raise SystemExit("Commit activity chart is missing its labels")
               if name == "contribution-snake.svg" and "#7dd3fc" not in source.lower():
                   raise SystemExit("Snake color was not applied")
               print(f"{name}: valid SVG ({image.stat().st_size} bytes)")
@@ -75,10 +63,10 @@ jobs:
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/profile/commits-by-hour.svg assets/profile/contribution-snake.svg
+          git add assets/profile/contribution-snake.svg
           if git diff --cached --quiet; then
             echo "Profile images are already up to date."
             exit 0
           fi
-          git commit -m "Refresh profile data images"
+          git commit -m "Refresh contribution snake"
           git push
